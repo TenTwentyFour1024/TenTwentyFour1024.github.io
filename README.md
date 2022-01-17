@@ -8,12 +8,7 @@
     </head>
     <body>
         <div>
-            <p>Привет! Вы находитесь на сайте <b>Serrr</b></p>
-            <br>
-            <br>
-            <p>Перейти в профиль GitHub разработчика этого сайта:</p>
-            <br>
-            <button><a href="https://github.com/SerrrGitHub/">SerrrGitHub</a></button>
+            <p>Привет! Вы находитесь на сайте <b>TenTwentyFour</b></p>
         </div>
     </body>
 </html>
