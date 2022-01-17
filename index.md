@@ -9,8 +9,11 @@
             <h1>Hello!</h1>
             <h2>Did you know?</h2>
             <p>There are 1024 megabytes in one gigabyte,
+               <br>
                There are 1024 gigabytes in one terabyte,
+               <br>
                There are 1024 terabytes in one petabyte!
+               <br>
                <br>
                One petabyte is approximately equal to 1,073,741,824 megabytes</p>
         </div>
